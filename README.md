@@ -1,16 +1,19 @@
-# rounded_image_app
+# Flutter Rounded Image App
 
-A new Flutter project.
+A simple Flutter app that demonstrates how to display an image inside a container with rounded corners using the `BoxDecoration` widget. The image is wrapped in a circular container, making it look like a rounded image.
 
-## Getting Started
+## 📋 Features
 
-This project is a starting point for a Flutter application.
+- **Rounded Image Display**: The image is placed inside a circular container using `BoxDecoration` with `BorderRadius`.
+- **Container Customization**: The container has a fixed height and width, a grey border, and a background image.
+- **Centered Layout**: The rounded container is centered on the screen using the `Center` widget.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Framework**  
+- **Dart Programming Language**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-rounded-image-app.git
