@@ -1,7 +1,3 @@
-# Flutter Rounded Image App
-
-A simple Flutter app that demonstrates how to display an image inside a container with rounded corners using the `BoxDecoration` widget. The image is wrapped in a circular container, making it look like a rounded image.
-
 ## 📋 Features
 
 - **Rounded Image Display**: The image is placed inside a circular container using `BoxDecoration` with `BorderRadius`.
